@@ -1,0 +1,769 @@
+{
+  "assignments": [
+    {
+      "id": "146a7ae74a6e1eb7956139eaaf7e177c1c7fb1aff8d510b1da160cd87813c50f",
+      "subject": "CS306",
+      "title": "Assignment No.1",
+      "due_date": "Apr 30, 2026",
+      "status": "20.00"
+    },
+    {
+      "id": "a662606fd8937c59d3082d1e870ff94176f8c3ad74a1335c7bd2461b1a797370",
+      "subject": "CS306",
+      "title": "Assignment No. 2",
+      "due_date": "Jun 29, 2026",
+      "status": ""
+    },
+    {
+      "id": "6d6ccff4300a951cf25e2351ea16a58a4d32b2ae4266df9954dcde13cffd6879",
+      "subject": "CS402",
+      "title": "Assignment 1",
+      "due_date": "May 07, 2026",
+      "status": "14.00"
+    },
+    {
+      "id": "8043f166197f1372ffa3eec61f071d1d4f5cdd7ec7484553acec906f9af996d2",
+      "subject": "CS402",
+      "title": "Assignment No. 2",
+      "due_date": "Jun 27, 2026",
+      "status": ""
+    },
+    {
+      "id": "f9789869148b70372bb00f5f4ac08a5593257177ba4b9bb7b337b7944fdde264",
+      "subject": "CS408",
+      "title": "Assignment No.1",
+      "due_date": "May 03, 2026",
+      "status": "20.00"
+    },
+    {
+      "id": "2497680a10a79304d5eb104ab7ee541752e05e6010fbef6108d3a0a174f69277",
+      "subject": "CS408",
+      "title": "Assignment No.2",
+      "due_date": "Jun 27, 2026",
+      "status": ""
+    },
+    {
+      "id": "689b17be499f3d791e3d1f3e2b585b78a5e4f77d2982f7b53b4ffc9e2f728f8f",
+      "subject": "CS601",
+      "title": "Assignment no 1",
+      "due_date": "May 02, 2026",
+      "status": "15.00"
+    },
+    {
+      "id": "a9b3c3421c5c70bf6e0aab06b1c5b865e4ff5192b2dca36450879f11bd26b7f2",
+      "subject": "CS601",
+      "title": "Assignment No 2",
+      "due_date": "Jul 08, 2026",
+      "status": ""
+    },
+    {
+      "id": "63ea8663347dc78f48555245a96a5a6428e57ad37c5b3567a4bce4bf503b4bc6",
+      "subject": "CS607",
+      "title": "Assignment #1",
+      "due_date": "May 03, 2026",
+      "status": "1.00"
+    },
+    {
+      "id": "83724f751c2da7d7b15ebd43321abcbd31604cb0d4daa4535075a1cda9042fce",
+      "subject": "CS607",
+      "title": "Assignment # 2",
+      "due_date": "Jun 29, 2026",
+      "status": ""
+    },
+    {
+      "id": "6d6267cf56c0a7fc5ac5994e01ad78c09fb0d83e037240bac40626ac7c15ad0a",
+      "subject": "CS614",
+      "title": "Assignment No 1",
+      "due_date": "Apr 30, 2026",
+      "status": "20.00"
+    },
+    {
+      "id": "15983c4334f16315332d0e8e3762892a55d57fa895bd505514bc49f2c3c25797",
+      "subject": "CS614",
+      "title": "Assignment No 2",
+      "due_date": "Jun 29, 2026",
+      "status": ""
+    }
+  ],
+  "gdbs": [
+    {
+      "id": "b897bfdd11a2b1ea38527f104e8e9d7033482e52b350987fc89deee5575959cd",
+      "subject": "CS306",
+      "title": "Python Functions V/S Lambda Expressions",
+      "opening_date": "May 18, 2026",
+      "closing_date": "May 21, 2026",
+      "total_marks": "5",
+      "status": "Closed",
+      "score": "3.75"
+    },
+    {
+      "id": "451ec94bbcf3243b1264455808eaa02d3d70817fb27ea16fe3a88d670cfd5403",
+      "subject": "CS402",
+      "title": "Comparative study of DFA and NFA in Cybersecurity System.",
+      "opening_date": "May 14, 2026",
+      "closing_date": "May 18, 2026",
+      "total_marks": "5",
+      "status": "Closed",
+      "score": "5"
+    },
+    {
+      "id": "e0cb813a8bb327d3c6e73d8de7fc00f4b7920f074af514365a428d227c9a0ed0",
+      "subject": "CS408",
+      "title": "Graded Discussion Board",
+      "opening_date": "May 09, 2026",
+      "closing_date": "May 12, 2026",
+      "total_marks": "5",
+      "status": "Closed",
+      "score": "5"
+    },
+    {
+      "id": "f38dc517c55564849570ee501dbfac4ad2d4b1d7bb6563336d689c92b0016a19",
+      "subject": "CS601",
+      "title": "GDB",
+      "opening_date": "Jul 01, 2026",
+      "closing_date": "Jul 02, 2026",
+      "total_marks": "5",
+      "status": "Closed",
+      "score": ""
+    },
+    {
+      "id": "b134cb937da16830fa47d0a437c1f2ac353aef568ef478c2dc8808a13e6719c7",
+      "subject": "CS607",
+      "title": "GDB",
+      "opening_date": "May 14, 2026",
+      "closing_date": "May 17, 2026",
+      "total_marks": "5",
+      "status": "Closed",
+      "score": "3.75"
+    },
+    {
+      "id": "365a5e96a6b57e368a22825921a74e66016ac3b9bbd3afc8d1db1da7ded26bde",
+      "subject": "CS614",
+      "title": "Graded Discussion Board",
+      "opening_date": "May 11, 2026",
+      "closing_date": "May 12, 2026",
+      "total_marks": "5",
+      "status": "Closed",
+      "score": "3.75"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "87839f3edf78697d8f77b8699f2ccfe655b243d73ad10d419c161ccb5ec00042",
+      "subject": "CS306",
+      "title": "Quiz No. 1",
+      "due_date": "May 06, 2026 11:59 PM",
+      "start_date": "May 04, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "e80554e466e818b960ffed9ab619683a5940b63e1a59bbed3194660d9b7a5316",
+      "subject": "CS306",
+      "title": "Quiz No. 2",
+      "due_date": "May 13, 2026 11:59 PM",
+      "start_date": "May 11, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "33ffc5b3ceab60c053b863cc2896622ca2ef3670e90fe1fd51ef75623634842e",
+      "subject": "CS306",
+      "title": "Quiz No. 3",
+      "due_date": "Jul 01, 2026 11:59 PM",
+      "start_date": "Jun 29, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "543c8f6eb0ceece29026d7d97c49d32cc5e361a4778eba4cf632e1280da56f85",
+      "subject": "CS306",
+      "title": "Quiz No. 4",
+      "due_date": "Jul 08, 2026 11:59 PM",
+      "start_date": "Jul 06, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "163869483c299230c141e85d951bcf78413f80bb90f19e3f1a98b4fc4104550b",
+      "subject": "CS402",
+      "title": "Semester Quiz no. 1",
+      "due_date": "Apr 28, 2026 11:59 PM",
+      "start_date": "Apr 27, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "a411ddcf3b82403005d148f6d54023a68c339eb4dd4b42312fd9a7810ae79518",
+      "subject": "CS402",
+      "title": "Semester Quiz no. 2",
+      "due_date": "May 12, 2026 11:59 PM",
+      "start_date": "May 11, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "b595cda238005b0f141950bce3a2e5a8339d6e23970c4c20851f34a908f9f001",
+      "subject": "CS402",
+      "title": "Semester Quiz no. 03",
+      "due_date": "Jun 30, 2026 11:59 PM",
+      "start_date": "Jun 29, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "f90ebbbc7ad49a673b9aa8f1324d66fd452494fd138a486311879759e686766f",
+      "subject": "CS402",
+      "title": "Semester Quiz no. 04",
+      "due_date": "Jul 07, 2026 11:59 PM",
+      "start_date": "Jul 06, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "c6c0abe419aa30a6afcfc0c5d0b153c53efdee4d9229ba427e535fb380b60c52",
+      "subject": "CS408",
+      "title": "Quiz No.1",
+      "due_date": "May 06, 2026 11:59 PM",
+      "start_date": "May 04, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "e1ccf1863f873f3d5cf6c8b7a9e961c64138b5da7da37dc8b59785b54b94096d",
+      "subject": "CS408",
+      "title": "Quiz No.2",
+      "due_date": "May 20, 2026 11:59 PM",
+      "start_date": "May 18, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "65841ea525590b1e43bfb15d81bb7a9a1f4f61aa9f79c6c997c14f703a48a621",
+      "subject": "CS408",
+      "title": "Quiz No.3",
+      "due_date": "Jul 01, 2026 11:59 PM",
+      "start_date": "Jun 29, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "7b04ccbd966fef36c1aaca31141b0a65a2fd1069ba7fcaa76d7b3c5bcbe76a73",
+      "subject": "CS408",
+      "title": "Quiz No.4",
+      "due_date": "Jul 08, 2026 11:59 PM",
+      "start_date": "Jul 06, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "cf9b81f293763ff6131a6280e099db58a09546dfbcc8c32a0bdaa2bfc21df315",
+      "subject": "CS601",
+      "title": "Quiz no 1",
+      "due_date": "May 06, 2026 11:59 PM",
+      "start_date": "May 05, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "adfb83fa40757f660b7c6cbea32bd87799eae690740f975972c7b194fc030bc1",
+      "subject": "CS601",
+      "title": "Quiz no 2",
+      "due_date": "May 20, 2026 11:59 PM",
+      "start_date": "May 19, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "1c2aaf64e9a6f09ca14a84bde9a9914689caff2d85b50460217473dddb43c2a7",
+      "subject": "CS601",
+      "title": "Quiz no 3",
+      "due_date": "Jul 08, 2026 11:59 PM",
+      "start_date": "Jul 07, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "ac8fe2e95081ee790c10002e7c3424872d6900f526b05de85f59385cc8659d72",
+      "subject": "CS601",
+      "title": "Quiz no 4",
+      "due_date": "Jul 10, 2026 11:59 PM",
+      "start_date": "Jul 09, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "cc2078e694a1d0cee8a4a9f031beb6e3fb08fc305bffb87c85802bbb616449d6",
+      "subject": "CS607",
+      "title": "Semester Quiz # 01",
+      "due_date": "May 05, 2026 11:59 PM",
+      "start_date": "May 04, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "4c0bb88ee5eb3c884a95805cdc18e10972fe569f2966284263ec543cd62c99b7",
+      "subject": "CS607",
+      "title": "Semester Quiz # 02",
+      "due_date": "May 19, 2026 11:59 PM",
+      "start_date": "May 18, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "d4f96e24415ee9a74fbd9a944dbce3c8b06cace1351ad32dbe0da0108336a92c",
+      "subject": "CS607",
+      "title": "Semester Quiz # 03",
+      "due_date": "Jun 23, 2026 11:59 PM",
+      "start_date": "Jun 22, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "2f72042fa263cc7d49ef6c7088fdcc6bf396e87212e7665b4e8fda2e210ba5d8",
+      "subject": "CS607",
+      "title": "Semester Quiz # 04",
+      "due_date": "Jul 03, 2026 11:59 PM",
+      "start_date": "Jul 02, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "8304d62c3d4fcc5bbf8fd9f0acd831462c48a3f074520fa1c444f439e6015e31",
+      "subject": "CS614",
+      "title": "Quiz 1",
+      "due_date": "May 06, 2026 11:59 PM",
+      "start_date": "May 04, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "2df11b28f1919dfce87c17be560d2ec16c7404a62c711ab118bde9c4d4aa0a31",
+      "subject": "CS614",
+      "title": "Quiz 2",
+      "due_date": "May 20, 2026 11:59 PM",
+      "start_date": "May 18, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "eeaf2d14ab46cd95c32d7f48149a4f80e4a6e3237f78361e7ea8b4ea0c2b343c",
+      "subject": "CS614",
+      "title": "Quiz 3",
+      "due_date": "Jul 03, 2026 11:59 PM",
+      "start_date": "Jul 01, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    },
+    {
+      "id": "742b2f8b1182687688e31a7c4448fa413b386cdf6dff5a58351758ecf372faa1",
+      "subject": "CS614",
+      "title": "Quiz 4",
+      "due_date": "Jul 08, 2026 11:59 PM",
+      "start_date": "Jul 06, 2026 12:00 AM",
+      "total_marks": "10",
+      "status": "Closed"
+    }
+  ],
+  "announcements": [
+    {
+      "id": "448733940c802266264de3eca97657f0859574e51d01de65cbff0457d3683e69",
+      "subject": "CS306",
+      "title": "Assignment No. 2",
+      "date": "Jun 22, 2026",
+      "details": ""
+    },
+    {
+      "id": "df8edf9846ac7d1fd02fe9564a76a5e083c0b3c46a2bde7d7b6ad29953561776",
+      "subject": "CS306",
+      "title": "Syllabus & Paper Pattern \u2013 Spring 2026 Mid Semester Examinations",
+      "date": "May 19, 2026",
+      "details": ""
+    },
+    {
+      "id": "db98e405a8376da677eb150032c535c1af02ad194db7d95996edeb99f22e9b0b",
+      "subject": "CS306",
+      "title": "Graded Discussion Board (GDB)",
+      "date": "May 17, 2026",
+      "details": ""
+    },
+    {
+      "id": "1933f63d658268935496aefcd9a89871292ba840cdee8254204c97bbcb47276a",
+      "subject": "CS306",
+      "title": "Assignment No. 1",
+      "date": "Apr 23, 2026",
+      "details": ""
+    },
+    {
+      "id": "77d055d35bb6e3189377480d0cf453f55d1cbf4e9f3a8f78e2cbed3b0c216e0a",
+      "subject": "CS306",
+      "title": "Virtual Visiting Hours (VVH) Sessions",
+      "date": "Apr 21, 2026",
+      "details": ""
+    },
+    {
+      "id": "b9d11bcbf132b3fdac176834066f8375690117d62d595ba91392ed470a14c28f",
+      "subject": "CS306",
+      "title": "Software House Induction",
+      "date": "Apr 14, 2026",
+      "details": ""
+    },
+    {
+      "id": "1343ced6327d5aee272c553bb1f8471defefad5bce6e0f80aaa6cf1a8aec0791",
+      "subject": "CS306",
+      "title": "Proper Use of Modern Discussion Board (MDB)",
+      "date": "Apr 13, 2026",
+      "details": ""
+    },
+    {
+      "id": "a04288b6aae1317385f24b7658fffae62dfcd7e4b7bb951d0a6a9d8cc9653497",
+      "subject": "CS306",
+      "title": "Opportunity to Enhance Your Skills through DigiSkills (DSTP) Courses",
+      "date": "Apr 03, 2026",
+      "details": ""
+    },
+    {
+      "id": "6b2e53617755f74d90912416a4a06f21999e39a79f5b0fd1842fe26e3a87c392",
+      "subject": "CS306",
+      "title": "Welcome Note",
+      "date": "Apr 07, 2026",
+      "details": ""
+    },
+    {
+      "id": "b0f6842c772e931b595f618c2603eac4041b2962945e26f2d1166e985db794af",
+      "subject": "CS402",
+      "title": "Spring 2026 - Midterm Syllabus & Paper Pattern Details",
+      "date": "May 23, 2026",
+      "details": ""
+    },
+    {
+      "id": "8d782f3cfaded1f13618cc536f4e827431b74f2a419d936cc77925e75ac6b71e",
+      "subject": "CS402",
+      "title": "Assignment 1 Uploaded",
+      "date": "May 01, 2026",
+      "details": ""
+    },
+    {
+      "id": "3d4b083c68e2740f00b139fbe56c05cf30fcfc2f35ce21f086f79137aaa4f584",
+      "subject": "CS402",
+      "title": "Course Assignemnt no. 2",
+      "date": "Jun 20, 2026",
+      "details": ""
+    },
+    {
+      "id": "b3cba70694851e13a6fed4163e64085726ae51997a02a7e50b78dcd86b0b83bf",
+      "subject": "CS402",
+      "title": "INDUCTION OPEN \u2013 21th Batch of VU-Software House",
+      "date": "Apr 14, 2026",
+      "details": ""
+    },
+    {
+      "id": "6a2b6944c73c3df5908326203b38d4cb8fe7192540f543e1a5afbf2c1a5e3184",
+      "subject": "CS402",
+      "title": "Semester Quiz # 4",
+      "date": "Jul 01, 2026",
+      "details": ""
+    },
+    {
+      "id": "02912b849af144e34e3c3f0f99bff03480cd2991d80e87dff376f1c58cf66e97",
+      "subject": "CS402",
+      "title": "Semester Quiz # 3",
+      "date": "Jun 20, 2026",
+      "details": ""
+    },
+    {
+      "id": "62cc9250bd9c3da58c35cbf2ea0397ec59a4429880bcde7027d242fe41d6080c",
+      "subject": "CS402",
+      "title": "Graded Discussion Board",
+      "date": "May 13, 2026",
+      "details": ""
+    },
+    {
+      "id": "86d65dbbdd9fa35ccf2bf1bc7e045290ffab0a2b8ab4966aeaf0bee09b2f826c",
+      "subject": "CS402",
+      "title": "Semester Quiz # 2",
+      "date": "May 10, 2026",
+      "details": ""
+    },
+    {
+      "id": "ff2d8815eea2e9eefbd850866a89252979e0d5ca70c41fef3f23df3f8fdeac1a",
+      "subject": "CS402",
+      "title": "Semester Quiz # 1",
+      "date": "Apr 23, 2026",
+      "details": ""
+    },
+    {
+      "id": "dabb375765b7dec73417d731d83251a7a444c1dfc0eb21ad5d1a354691b167fd",
+      "subject": "CS402",
+      "title": "Virtual Visiting Hours Sessions",
+      "date": "Jul 02, 2026",
+      "details": ""
+    },
+    {
+      "id": "8596800ddf4342abd4b692978048bf2ea3faa4515d9addd2637c5a1d5c31d91b",
+      "subject": "CS408",
+      "title": "Graded Quiz No.4",
+      "date": "Jun 30, 2026",
+      "details": ""
+    },
+    {
+      "id": "100ad482ddbb7f3cf8c95ef0a6477b495548a1d1d04cfbeea1205ee724040007",
+      "subject": "CS408",
+      "title": "Quiz No.3",
+      "date": "Jun 23, 2026",
+      "details": ""
+    },
+    {
+      "id": "456698dce4c9f24955e988bbecf94bac0571eb002ad4627097e3b7166dd9791f",
+      "subject": "CS408",
+      "title": "Assignment No.2",
+      "date": "Jun 22, 2026",
+      "details": ""
+    },
+    {
+      "id": "3711cd2fae5c682a09e2eff429bc4b8011199a3347567a40673627929c70089d",
+      "subject": "CS408",
+      "title": "Mid Term Syllabus",
+      "date": "May 24, 2026",
+      "details": ""
+    },
+    {
+      "id": "86113c39c3efaafec79fc904a9449f0f8d870cf5e9c0461bf95d3e615bdcbeb0",
+      "subject": "CS408",
+      "title": "Quiz No.2",
+      "date": "May 13, 2026",
+      "details": ""
+    },
+    {
+      "id": "8712eaac09ec91b9a0bd78916b0ba32cdf3607e8500f2ac68bbab9cbb8bdde65",
+      "subject": "CS408",
+      "title": "Graded Discussion Board",
+      "date": "May 08, 2026",
+      "details": ""
+    },
+    {
+      "id": "9ef4408638a33aac3e67d93802584f3ecb8e10108269d9494079303c5ced95e3",
+      "subject": "CS408",
+      "title": "Quiz No.1",
+      "date": "Apr 28, 2026",
+      "details": ""
+    },
+    {
+      "id": "df208a686d499e2b2cd88b2236bff5c149c145c67c60ac408af5254ba27d6c52",
+      "subject": "CS408",
+      "title": "Assignment No.1",
+      "date": "Apr 26, 2026",
+      "details": ""
+    },
+    {
+      "id": "108f50af08340da564f2e437a60833b8e587716383ea434d866079340ed85742",
+      "subject": "CS408",
+      "title": "Weekly Interactive Session (Friday 10:30AM to 11:30 AM)",
+      "date": "Apr 23, 2026",
+      "details": ""
+    },
+    {
+      "id": "b9a91ae5a201140f2251fff54f8237def9c80c6675949df9c934f9bff43479ee",
+      "subject": "CS408",
+      "title": "Weekly Interactve Session (updated)",
+      "date": "Apr 16, 2026",
+      "details": ""
+    },
+    {
+      "id": "5d9fa9b32478bfbe1d8da7b607a83a7acbd8f29f0361ccda471b551d63387ff4",
+      "subject": "CS601",
+      "title": "Quiz No. 4 Announcement",
+      "date": "Jul 03, 2026",
+      "details": ""
+    },
+    {
+      "id": "e850a8c56835a445e6e31c0834d70e1dc4fa7607733ca20c5d1989871253d8a1",
+      "subject": "CS601",
+      "title": "Quiz No. 3 Announcement",
+      "date": "Jul 03, 2026",
+      "details": ""
+    },
+    {
+      "id": "4b61d51c11404070634f3244805be791129193706356b3d45810904e532f8ab5",
+      "subject": "CS601",
+      "title": "Assignment No 2:",
+      "date": "Jul 01, 2026",
+      "details": ""
+    },
+    {
+      "id": "4f0515d8dab90f6887d703d9ababc7591f9c854cc6c55f6ea86758c03e941feb",
+      "subject": "CS601",
+      "title": "About GDB",
+      "date": "Jun 25, 2026",
+      "details": ""
+    },
+    {
+      "id": "1ef919bac45279e1d92c6ebc97e9f834a675eeefbb645c60f4d61f0cae6afd29",
+      "subject": "CS601",
+      "title": "Paper Pattern and Syllabus",
+      "date": "May 21, 2026",
+      "details": ""
+    },
+    {
+      "id": "5055f8edbce70faa93428bf67b9280a9a0651e310ccdbbe144d2c7bd937f63e6",
+      "subject": "CS601",
+      "title": "Quiz No.2 Annoucement",
+      "date": "May 14, 2026",
+      "details": ""
+    },
+    {
+      "id": "5b8c11216ac26a0f6dcd7f9e60ae898febeb55e82a228e9f2b3bc753c73398cb",
+      "subject": "CS601",
+      "title": "Quiz No.1 Annoucement",
+      "date": "May 02, 2026",
+      "details": ""
+    },
+    {
+      "id": "288459437a7eb4d5216ffc5278fd740dd389daac2697a79bd35968d0d7fc5ae6",
+      "subject": "CS601",
+      "title": "Extension Assignment No. 1",
+      "date": "Apr 30, 2026",
+      "details": ""
+    },
+    {
+      "id": "a9e79ec8c506921f4f3941e91f9e1a26dcb91cfe183ec4a6d8adf9ab1a509f97",
+      "subject": "CS601",
+      "title": "Semester Quizzes Schedule Announcement (All 4 Quizzes)",
+      "date": "Jul 01, 2026",
+      "details": ""
+    },
+    {
+      "id": "eb13c42c8f454a2bfb2c0189d09e1da5b76266a470954cf46c6bba9122b9dcaf",
+      "subject": "CS601",
+      "title": "Semester Quizzes & Lesson Tracking Mechanism",
+      "date": "Apr 27, 2026",
+      "details": ""
+    },
+    {
+      "id": "9b616fd26511846ec070de6a84adba524db1ff5fac23d497cb828ff2ddc8dc97",
+      "subject": "CS607",
+      "title": "Virtual Visiting Hours Sessions",
+      "date": "Jul 07, 2026",
+      "details": ""
+    },
+    {
+      "id": "cc2f88bd489f7b269fcaecc87a2629e6bf1ed2e3eb7cdba90346e9c0f81ac205",
+      "subject": "CS607",
+      "title": "Assignment 1 Results and Common Mistake",
+      "date": "Jul 06, 2026",
+      "details": ""
+    },
+    {
+      "id": "e2c1dc7f42d82b1bf37cd85ece906b47f9ed4ab204f4cbeedcb07ae29cc48aa9",
+      "subject": "CS607",
+      "title": "Semester Quiz # 04",
+      "date": "Jul 02, 2026",
+      "details": ""
+    },
+    {
+      "id": "b160ac097697999c86109a55cd936e51670433231079f3aaad000c940772b1d3",
+      "subject": "CS607",
+      "title": "Assignment # 2",
+      "date": "Jun 22, 2026",
+      "details": ""
+    },
+    {
+      "id": "26b24babc0775d99f9f5e659c46157189e6338f31b9e004d38ab092ed3dc9d69",
+      "subject": "CS607",
+      "title": "Semester Quiz # 3",
+      "date": "Jun 19, 2026",
+      "details": ""
+    },
+    {
+      "id": "352f3ff5ffac15f9671e4516618f231bc435a727fe916991032b81ab6155aec3",
+      "subject": "CS607",
+      "title": "Midterm Syllabus - Spring 2026",
+      "date": "May 19, 2026",
+      "details": ""
+    },
+    {
+      "id": "25fcb9892e5fcace270f517c6c61c5d974ddb27921fad9a540e8bb7ab1f52e3f",
+      "subject": "CS607",
+      "title": "Semester Quiz # 02 (Graded)",
+      "date": "May 19, 2026",
+      "details": ""
+    },
+    {
+      "id": "ef77157f5039ee685ab4ae488ba0f97f092634c798c740f9d6f9105dff48b53e",
+      "subject": "CS607",
+      "title": "Graded Discussion Board",
+      "date": "May 14, 2026",
+      "details": ""
+    },
+    {
+      "id": "79347b2ff0ddfa9f5280fafce223914285602e07c7832cd277dcba63cbe078d3",
+      "subject": "CS607",
+      "title": "Semester Quiz # 1",
+      "date": "May 02, 2026",
+      "details": ""
+    },
+    {
+      "id": "a4ef9a2a066ebf089635777bdb22a3615f730930821dd17cc566aebe7bb5fc24",
+      "subject": "CS607",
+      "title": "Assignment # 1",
+      "date": "Apr 27, 2026",
+      "details": ""
+    },
+    {
+      "id": "7f767ea35998fe7914ae9a9af259506c7a33eab30e2bf6d92753d252254b0c5c",
+      "subject": "CS614",
+      "title": "Post Midterm \u2013 Graded Activities Schedule",
+      "date": "Jun 11, 2026",
+      "details": ""
+    },
+    {
+      "id": "9e79b2556085a504acca3ef66e9a1332813fb3bb3547ffe6db859ff79f11afd5",
+      "subject": "CS614",
+      "title": "Mid Term Syllabus & Paper Pattern Details",
+      "date": "May 23, 2026",
+      "details": ""
+    },
+    {
+      "id": "016a0c1c0de5a0c675f9a6685c9cc054fccb078379d9a798cdc68ece9bddfbc3",
+      "subject": "CS614",
+      "title": "Graded Discussion Board (GDB)",
+      "date": "May 07, 2026",
+      "details": ""
+    },
+    {
+      "id": "0b8c2751e448c00e5b053a8b1bb9e9aaf7ac65fe9c201f4bf1059ddcfd37872b",
+      "subject": "CS614",
+      "title": "INDUCTION OPEN \u2013 21st Batch of VU-Software House",
+      "date": "Apr 14, 2026",
+      "details": ""
+    },
+    {
+      "id": "b5028a76e14808ee3b7ee022ed81dc587df42fd834e76b0bcb4fbc65e7e1882e",
+      "subject": "CS614",
+      "title": "Pre-Midterm Graded Activities Schedule",
+      "date": "Apr 20, 2026",
+      "details": ""
+    },
+    {
+      "id": "4a6623e9122caa575159147c1a20a384681cd441b30218a4e732e816c1bb866a",
+      "subject": "CS614",
+      "title": "Virtual Visiting Hours (VVHs)",
+      "date": "Apr 08, 2026",
+      "details": ""
+    },
+    {
+      "id": "e4e79a8fe457e0d5c38b296e8b2401fe578aadd0da53609ff5db3302f0879c86",
+      "subject": "CS614",
+      "title": "Announcement: Opportunity to Enhance Your Skills through DigiSkills (DSTP) Courses",
+      "date": "Apr 13, 2026",
+      "details": ""
+    },
+    {
+      "id": "74be9198e6082f6c98da5a35472ca3c2a61383e5cc10f7bb98f3985a64448e60",
+      "subject": "CS614",
+      "title": "Welcome Note",
+      "date": "Mar 28, 2026",
+      "details": ""
+    }
+  ]
+}

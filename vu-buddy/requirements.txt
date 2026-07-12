@@ -1,0 +1,7 @@
+selenium
+beautifulsoup4
+schedule
+requests
+python-dotenv
+flask
+pywhatkit

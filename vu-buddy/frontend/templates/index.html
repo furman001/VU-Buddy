@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VU Buddy Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body data-page="dashboard">
+    <div class="app-shell">
+        <aside class="sidebar">
+            <h2 class="logo">VU Buddy</h2>
+            <p class="logo-sub">Smart LMS Assistant</p>
+            <nav class="nav flex-column gap-2 mt-4">
+                <a class="nav-link active" href="/">Dashboard</a>
+                <a class="nav-link" href="/settings">Settings</a>
+                <a class="nav-link" href="/logs">Logs</a>
+            </nav>
+        </aside>
+
+        <main class="content">
+            <div class="container-fluid py-4">
+                <div class="hero-banner">
+                    <h1 class="page-title">VU Buddy Dashboard</h1>
+                    <p class="page-subtitle">Monitor your automation workflow with real-time status and alerts.</p>
+                </div>
+
+                <!-- Row 1: System status -->
+                <div class="row g-3 mt-1">
+                    <div class="col-md-6 col-xl-3">
+                        <div class="dashboard-card">
+                            <h5>Bot Status</h5>
+                            <div class="bot-status-wrap">
+                                <span id="statusDot" class="status-dot stopped"></span>
+                                <p id="botStatus" class="stat-value">Stopped</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-3">
+                        <div class="dashboard-card">
+                            <h5>Last Check</h5>
+                            <p id="lastCheck" class="stat-value">Never</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-3">
+                        <div class="dashboard-card">
+                            <h5>Notifications Sent</h5>
+                            <p id="notificationsCount" class="stat-value">0</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-3">
+                        <div class="dashboard-card">
+                            <h5>Last Error</h5>
+                            <p id="lastError" class="stat-value small-stat">None</p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Row 2: Per-type content stats -->
+                <div class="row g-3 mt-2">
+                    <div class="col-md-6 col-xl-3">
+                        <div class="dashboard-card">
+                            <h5>📋 Assignments</h5>
+                            <p id="assignmentsTotalCount" class="stat-value">0</p>
+                            <small class="text-muted">New: <span id="assignmentsNewBadge" class="badge bg-success">0</span></small>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-3">
+                        <div class="dashboard-card">
+                            <h5>💬 GDBs</h5>
+                            <p id="gdbsTotalCount" class="stat-value">0</p>
+                            <small class="text-muted">New: <span id="gdbsNewBadge" class="badge bg-success">0</span></small>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-3">
+                        <div class="dashboard-card">
+                            <h5>📝 Quizzes</h5>
+                            <p id="quizzesTotalCount" class="stat-value">0</p>
+                            <small class="text-muted">New: <span id="quizzesNewBadge" class="badge bg-success">0</span></small>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-3">
+                        <div class="dashboard-card">
+                            <h5>📢 Announcements</h5>
+                            <p id="announcementsTotalCount" class="stat-value">0</p>
+                            <small class="text-muted">New: <span id="announcementsNewBadge" class="badge bg-success">0</span></small>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Action buttons -->
+                <div class="action-row mt-4">
+                    <button id="startBotBtn" class="btn btn-primary btn-modern">Start Bot</button>
+                    <button id="runNowBtn" class="btn btn-primary btn-modern">Run Now</button>
+                    <button id="stopBotBtn" class="btn btn-outline-danger btn-modern">Stop Bot</button>
+
+                    <div class="btn-group">
+                        <select id="testTypeSelect" class="form-select" style="width: auto; border-radius: 8px 0 0 8px;">
+                            <option value="assignment">Assignment</option>
+                            <option value="gdb">GDB</option>
+                            <option value="quiz">Quiz</option>
+                            <option value="announcement">Announcement</option>
+                        </select>
+                        <button id="testWhatsappBtn" class="btn btn-outline-primary btn-modern" style="border-radius: 0;">Test WhatsApp</button>
+                        <button id="testEmailBtn" class="btn btn-outline-primary btn-modern" style="border-radius: 0 8px 8px 0;">Test Email</button>
+                    </div>
+                </div>
+
+                <div id="actionMessage" class="alert alert-info mt-4 d-none" role="alert"></div>
+            </div>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
